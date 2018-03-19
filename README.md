@@ -1,6 +1,6 @@
 # cs5424
 
-## Lab 4
+## Lab 4: Make a Digital Timer!
 * [Part A. Revisiting Blink](https://github.com/jonleecutler/cs5424/wiki/Lab-4:-Part-A.-Revisiting-Blink)
 * [Part B. Advanced Inputs](https://github.com/jonleecutler/cs5424/wiki/Lab-4:-Part-B.-Advanced-Inputs)
 * [Part C. Writing to the LCD](https://github.com/jonleecutler/cs5424/wiki/Lab-4:-Part-C.-Writing-to-the-LCD)
