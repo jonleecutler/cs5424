@@ -12,3 +12,8 @@
 * [Part B. Voltage Varying Sensors](https://github.com/jonleecutler/cs5424/wiki/Lab-5:-Part-B.-Voltage-Varying-Sensors)
 * [Part C. Count Time Based Sensors](https://github.com/jonleecutler/cs5424/wiki/Lab-5:-Part-C.-Count-Time-Based-Sensors)
 * [Part D. Logging values to the EEPROM and reading them back](https://github.com/jonleecutler/cs5424/wiki/Lab-5:-Part-D.-Logging-values-to-the-EEPROM-and-reading-them-back)
+
+## Lab 6: Make an Etch-a-Sketch!
+* [Part A. Node Canvas](https://github.com/jonleecutler/cs5424/wiki/Lab-6:-Part-A.-Node-Canvas)
+* [Part B. Etch a Sketch](https://github.com/jonleecutler/cs5424/wiki/Lab-6:-Part-B.-Etch-a-Sketch)
+* [Part C. Make it yours](https://github.com/jonleecutler/cs5424/wiki/Lab-6:-Part-C.-Make-it-yours)
